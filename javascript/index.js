@@ -25,6 +25,7 @@ function updateTime() {
     );
   }
 }
+//current location
 
 function updateCity(event) {
   let cityTimeZone = event.target.value;
